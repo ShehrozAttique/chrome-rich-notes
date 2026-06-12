@@ -3,7 +3,6 @@
 A sleek, offline-first Chrome extension for managing rich-text notes. Instead of a constrained popup, Chrome Rich Notes opens in a dedicated full-screen tab, offering a premium, distraction-free note-taking environment with a minimal, "cardless" aesthetic.
 
 ![Chrome Rich Notes  Extension Screenshot](assets/screenshot.png)
-_(Replace this placeholder with a screenshot of your extension)_
 
 ## ✨ Features
 
