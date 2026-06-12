@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Chrome Rich Notes - Modern Notes",
+  "version": "1.0",
+  "description": "An offline-first, rich-text note manager.",
+  "action": {},
+  "background": {
+    "service_worker": "background.js"
+  },
+  "permissions": ["storage"],
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  }
+}
